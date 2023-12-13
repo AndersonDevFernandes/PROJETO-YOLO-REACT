@@ -6,6 +6,15 @@
   box-sizing: border-box;
 }
 
+/* INDEX */
+
+.mainContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 
 /* HEADER */
 
