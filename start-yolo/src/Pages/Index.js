@@ -11,7 +11,7 @@ import '../App.css';
 
 function CadUser() {
   return (
-    <div>
+    <div className="mainContainer">
       <Header />
       <Dispositivo />
       <Footer />
